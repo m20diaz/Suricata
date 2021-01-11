@@ -1,0 +1,65 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.pink {
+  background-color: #E83E8C;
+}
+
+h1 {
+  color: #707070;
+  font-size: 60px;
+  padding: 50px;
+}
+
+nav a img {
+  width: 150px;
+  height: 60px;
+}
+
+.tarjeta {
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 60px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.list-group-item, .card-body {
+  font-size: 11px;
+}
+
+.icon-section {
+  background-color: #17A2B8;
+  padding: 60px;
+}
+
+.icon-section h2 {
+  font-size: 40px;
+  opacity: 1;
+}
+
+.icon-section i {
+  width: 80px;
+  height: 53px;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 35px;
+  }
+}
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FFFFFF;
+}
+
+footer img {
+  padding: 0px;
+  width: 53px;
+  height: auto;
+}
